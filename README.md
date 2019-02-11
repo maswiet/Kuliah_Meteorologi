@@ -51,7 +51,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 11     | Sirkulasi Atmosfer | [T.B.A](#) |
 | 12     | Angin-angin di Indonesia | [T.B.A](#) |
 | 13     | Badai Petir | [T.B.A](#) |
-| 14     | Temperatur Udara | [T.B.A](#) |
+| 14     | Meteorologi di Abad ini | [T.B.A](#) |
 | 15     | Prediksi Cuaca | [T.B.A](#) |
 | 16     | Ujian Akhir Semester | [T.B.A](#) |
 
