@@ -62,11 +62,8 @@ T.B.A = to-be-anounced
 
 
 ## BukuAcuan:
-1. Scopatz and Huff, 2015: Effective Computation in Physics, O'Reilly MediaElsevier, Netherland.
-2. Downey, 2015. Think Python, [Green Tea Press](http://greenteapress.com/thinkpython/thinkpython.pdf), Massachusetts.
+1. Ahrens and Henson, 2015: Essentials of Meteorology: An Invitation to the Atmosphere, Cencage Learning.
+2. Suryanto dan Luthfian, 2016. Pengantar Meteorologi, UGM Press.
 
 
-<img src="https://covers.oreillystatic.com/images/0636920033424/lrg.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51CxdWNJ%2BOL._SX379_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
-
-## Aplikasi Seismologi:
-1. [Obspy](https://github.com/obspy/obspy/wiki): A Python Framework for Seismology.
+<img src="https://images-na.ssl-images-amazon.com/images/I/41K-QKTh1dL._SX389_BO1,204,203,200_.jpg" width=128px height=161px alt='Newman'> <img src="https://ecs7.tokopedia.net/img/product-1/2018/8/20/4785186/4785186_c7275fe4-e357-497d-b0a6-55cc352fce24_512_653.png" width=128px height=161px alt='Mase'>
