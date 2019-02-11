@@ -10,6 +10,7 @@
 Kuliah Dasar-Dasar Ilmu Cuaca di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
 
 ![Pressure_map](http://www.atmo.arizona.edu/students/courselinks/spring08/atmo336s1/courses/spring13/atmo170a1s1/1S1P_stuff/sfc_wx_map/map_analysis.jpg)
+Gambar diambil dari http://www.atmo.arizona.edu/students/courselinks/spring08/atmo336s1/courses/spring13/atmo170a1s1/1S1P_stuff/sfc_wx_map/map_analysis.jpg
 ## Aras Kompetensi
 Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi dasar sehingga mahasiswa mampu mengoperasikan komputer untuk memecahkan masalah di geofisika. Untuk pemrograman akan diperkenalkan Python dan Matlab, dua diantara bahasa pemrograman tingkat tinggi yang populer, dengan komunitas yang banyak. 
 
