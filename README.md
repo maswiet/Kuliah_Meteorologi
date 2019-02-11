@@ -12,7 +12,7 @@ Kuliah Dasar-Dasar Ilmu Cuaca di Program Studi Geofisika, Departemen Fisika UGM,
 ![Pressure_map](http://www.atmo.arizona.edu/students/courselinks/spring08/atmo336s1/courses/spring13/atmo170a1s1/1S1P_stuff/sfc_wx_map/map_analysis.jpg)
 Gambar diambil dari http://www.atmo.arizona.edu/students/courselinks/spring08/atmo336s1/courses/spring13/atmo170a1s1/1S1P_stuff/sfc_wx_map/map_analysis.jpg
 ## Aras Kompetensi
-Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan untuk dapat menjelaskan mengenai cuaca, iklim, dinamika atmosfer, awan, hujan serta perkiraan cuaca. 
+Tujuan utama dari kuliah ini adalah untuk memberikan dasar-dasar ilmu tentang cuaca bagi mahasiswa Geofisika, guna memberikan wawasan tentang fenomena cuaca, iklim, interaksi manusia dengan cuaca dan proses-proses fisika yang terjadi yang mengikuti fenomena perubahan cuaca. Lebih lanjut dalam kuliah ini mahasiswa diberikan dasar-dasar praktis tentang prakiraan cuaca beserta contoh nyata bagaimana kita secara mudah dapat menduga cuaca yang akan terjadi pada esok hari.
 
 ## Pengampu
 - **Wiwit Suryanto** (it's me)
@@ -38,21 +38,21 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Motivasi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Untitled1.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Untitled1.ipynb) |
-| 2     | Analisis data runtun waktu | T.B.A |
-| 3    | Perulangan dengan loop | T.B.A |
-| 4     | Menyimpan data dalam list, tuple, dll | T.B.A |
-| 5     | Analisis data dari beberapa file, pilihan | T.B.A |
-| 6     | Membuat fungsi, eror dan penanganannya | T.B.A |
-| 7     | Pemrograman defensif, beberapa aplikasi geofisika dengan Python |  T.B.A |
+| 1     | Atmosfer Bumi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Untitled1.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Untitled1.ipynb) |
+| 2     | Pemanasan Bumi | T.B.A |
+| 3    | Suhu Udara dan Kehidupan | T.B.A |
+| 4     | Bahang | T.B.A |
+| 5     | Awan dan Kelembaban | T.B.A |
+| 6     | Kelembaban Udara | T.B.A |
+| 7     | Jenis-jenis awan |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
-| 9     | MATLAB| [T.B.A](#) |
-| 10     | MATLAB | [T.B.A](#) |
-| 11     | MATLAB | [T.B.A](#) |
-| 12     | MATLAB | [T.B.A](#) |
-| 13     | MATLAB | [T.B.A](#) |
-| 14     | MATLAB | [T.B.A](#) |
-| 15     | MATLAB | [T.B.A](#) |
+| 9     | Precipitasi| [T.B.A](#) |
+| 10     | Angin dan Tekanan Udara | [T.B.A](#) |
+| 11     | Sirkulasi Atmosfer | [T.B.A](#) |
+| 12     | Angin-angin di Indonesia | [T.B.A](#) |
+| 13     | Badai Petir | [T.B.A](#) |
+| 14     | Temperatur Udara | [T.B.A](#) |
+| 15     | Prediksi Cuaca | [T.B.A](#) |
 | 16     | Ujian Akhir Semester | [T.B.A](#) |
 
 T.B.A = to-be-anounced 
