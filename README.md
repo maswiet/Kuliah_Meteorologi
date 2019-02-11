@@ -15,8 +15,7 @@ Gambar diambil dari http://www.atmo.arizona.edu/students/courselinks/spring08/at
 Tujuan utama dari kuliah ini adalah untuk memberikan bekal kemampuan komputasi dasar sehingga mahasiswa mampu mengoperasikan komputer untuk memecahkan masalah di geofisika. Untuk pemrograman akan diperkenalkan Python dan Matlab, dua diantara bahasa pemrograman tingkat tinggi yang populer, dengan komunitas yang banyak. 
 
 ## Pengampu
-- Adam Sukma Putra, M.Sc. (Setelah Ujian Mid-Term)
-- **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
+- **Wiwit Suryanto** (it's me)
 Follow me on ![alt text][1.1]
 
 ## Prasyarat: -
