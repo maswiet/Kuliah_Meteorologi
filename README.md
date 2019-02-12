@@ -22,7 +22,7 @@ Tujuan utama dari kuliah ini adalah untuk memberikan dasar-dasar ilmu tentang cu
 
 ## Pengampu
 - **Wiwit Suryanto** (it's me)
-Follow me on ![alt text][1.1]
+Follow me on [![alt text][1.1]][1]
 
 ## Prasyarat: Fisika Dasar II (MFF1012)
 ## **Silabus**: 
