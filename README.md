@@ -1,10 +1,16 @@
-![alt text][1.1]
-![alt text][2.1]
-![alt text][3.1]
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 
-[1.1]: http://i.imgur.com/tXSoThF.png 
-[2.1]: http://i.imgur.com/P3YfQoD.png 
-[3.1]: http://i.imgur.com/yCsTjba.png 
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 # Kuliah Meteorologi (MFG2944)
 Kuliah Dasar-Dasar Ilmu Cuaca di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
@@ -64,3 +70,10 @@ T.B.A = to-be-anounced
 
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41K-QKTh1dL._SX389_BO1,204,203,200_.jpg" width=128px height=161px alt='Newman'> <img src="https://ecs7.tokopedia.net/img/product-1/2018/8/20/4785186/4785186_c7275fe4-e357-497d-b0a6-55cc352fce24_512_653.png" width=128px height=161px alt='Mase'>
+
+ [1]: http://www.twitter.com/maswiet
+ [2]: http://www.facebook.com/mas.wiet.52
+ [3]: https://plus.google.com/#
+ [4]: http://#
+ [5]: http://dribbble.com/#
+ [6]: http://www.github.com/maswiet
