@@ -48,7 +48,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 2     | Pemanasan Bumi |[Bahan Kuliah](https://github.com/maswiet/Kuliah_Meteorologi/blob/master/PemanasanBumi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Meteorologi/master?filepath=PemanasanBumi.ipynb)|
 | 3    | Suhu Udara dan Kehidupan |[Bahan Kuliah](https://github.com/maswiet/Kuliah_Meteorologi/blob/master/Suhu_udara.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Meteorologi/master?filepath=Suhu_udara.ipynb)|
 | 4     | Bahang | T.B.A |
-| 5     | Awan dan Kelembaban | T.B.A |
+| 5     | Awan dan Kelembaban |[Bahan Kuliah](https://github.com/maswiet/Kuliah_Meteorologi/blob/master/AwanKelembaban.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Meteorologi/master?filepath=AwanKelembaban.ipynb)|
 | 6     | Kelembaban Udara | T.B.A |
 | 7     | Jenis-jenis awan |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
