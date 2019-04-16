@@ -52,7 +52,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 6     | Kelembaban Udara | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Meteorologi/blob/master/blended_learning.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Meteorologi/master?filepath=blended_learning.ipynb) |
 | 7     | Jenis-jenis awan |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
-| 9     | Precipitasi| [PPT(https://1drv.ms/p/s!AjKEclqXch0hjLgKrKn66dQgG_LDsQ)|
+| 9     | Precipitasi| [PPT](https://1drv.ms/p/s!AjKEclqXch0hjLgKrKn66dQgG_LDsQ)|
 | 10     | Angin dan Tekanan Udara | [PPT](https://github.com/maswiet/Kuliah_Meteorologi/blob/master/Bab_6_Angin%26Tekanan_Udara.pdf) |
 | 11     | Sirkulasi Atmosfer | [T.B.A](#) |
 | 12     | Angin-angin di Indonesia | [T.B.A](#) |
