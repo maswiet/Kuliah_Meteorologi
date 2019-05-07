@@ -54,8 +54,8 @@ Berikut jadwal pertemuan setiap minggunya
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
 | 9     | Precipitasi| [PPT](https://1drv.ms/p/s!AjKEclqXch0hjLgKrKn66dQgG_LDsQ)|
 | 10     | Angin dan Tekanan Udara | [PPT](https://github.com/maswiet/Kuliah_Meteorologi/blob/master/Bab_6_Angin%26Tekanan_Udara.pdf) |
-| 11     | Sirkulasi Atmosfer | [T.B.A](#) |
-| 12     | Angin-angin di Indonesia | [T.B.A](#) |
+| 11     | Sirkulasi Atmosfer | [PPT](https://github.com/maswiet/Kuliah_Meteorologi/blob/master/Sirkulasi_Atmosfer.pdf) |
+| 12     | Angin-angin di Indonesia | [PPT](https://github.com/maswiet/Kuliah_Meteorologi/blob/master/Angin_di_Indo.pdf) |
 | 13     | Badai Petir | [T.B.A](#) |
 | 14     | Meteorologi di Abad ini | [T.B.A](#) |
 | 15     | Prediksi Cuaca | [T.B.A](#) |
