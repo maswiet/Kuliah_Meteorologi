@@ -18,7 +18,7 @@ Kuliah Dasar-Dasar Ilmu Cuaca di Program Studi Geofisika, Departemen Fisika UGM,
 ![Pressure_map](http://www.atmo.arizona.edu/students/courselinks/spring08/atmo336s1/courses/spring13/atmo170a1s1/1S1P_stuff/sfc_wx_map/map_analysis.jpg)
 Gambar diambil dari http://www.atmo.arizona.edu/students/courselinks/spring08/atmo336s1/courses/spring13/atmo170a1s1/1S1P_stuff/sfc_wx_map/map_analysis.jpg
 ## Aras Kompetensi
-Tujuan utama dari kuliah ini adalah untuk memberikan dasar-dasar ilmu tentang cuaca bagi mahasiswa Geofisika, guna memberikan wawasan tentang fenomena cuaca, iklim, interaksi manusia dengan cuaca dan proses-proses fisika yang terjadi yang mengikuti fenomena perubahan cuaca. Lebih lanjut dalam kuliah ini mahasiswa diberikan dasar-dasar praktis tentang prakiraan cuaca beserta contoh nyata bagaimana kita secara mudah dapat menduga cuaca yang akan terjadi pada esok hari.
+Tujuan utama dari kuliah ini adalah untuk memberikan dasar-dasar pengetahuan tentang cuaca untuk mahasiswa Geofisika. Tujuannya adalah untuk memberikan wawasan tentang fenomena cuaca, iklim, interaksi antara manusia dengan lingkungan dan proses-proses fisika yang terjadi yang mengikuti fenomena perubahan cuaca tersebut. Lebih lanjut, dalam kuliah ini mahasiswa diberikan dasar-dasar praktis tentang prakiraan cuaca beserta contoh nyata bagaimana kita dapat menduga cuaca yang akan terjadi pada esok hari.
 
 ## Pengampu
 - **Wiwit Suryanto** (it's me)
@@ -38,7 +38,7 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 ## Jadwal
 
 Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Selasa, jam 15:30 s.d. 17:10 di S1.301
+- Selasa, jam 12:30 s.d. 14:10 di S1.102
 
 Berikut jadwal pertemuan setiap minggunya
 
