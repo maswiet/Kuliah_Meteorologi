@@ -38,7 +38,7 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 ## Jadwal
 
 Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Selasa, jam 12:30 s.d. 14:10 di S1.102
+- Kamis, jam 07:30 s.d. 08:20 di https://meet.google.com/lookup/ahquucmf67?authuser=0&hs=179
 
 Berikut jadwal pertemuan setiap minggunya
 
